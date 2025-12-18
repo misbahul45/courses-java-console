@@ -120,7 +120,3 @@ This project was developed to:
 2. Implement the **MVC Architecture** in a decoupled manner.
 3. Handle **File I/O** operations for data persistence.
 4. Understand the flow of a multi-role user system.
-
-```
-
-```
