@@ -1,0 +1,101 @@
+1|Pengantar Teknologi Informasi|Mata kuliah pengenalan konsep dasar teknologi informasi|3
+2|Algoritma dan Pemrograman|Mempelajari dasar algoritma dan logika pemrograman|4
+3|Struktur Data|Pembahasan struktur data seperti array list stack dan queue|4
+4|Basis Data|Konsep perancangan dan pengelolaan basis data relasional|3
+5|Sistem Operasi|Mempelajari cara kerja sistem operasi komputer|3
+6|Jaringan Komputer|Dasar komunikasi data dan jaringan komputer|3
+7|Pemrograman Berorientasi Objek|Konsep OOP seperti class object inheritance dan polymorphism|4
+8|Pemrograman Web Dasar|Membangun website menggunakan HTML CSS dan JavaScript|3
+9|Pemrograman Web Lanjut|Pengembangan web menggunakan framework modern|3
+10|Rekayasa Perangkat Lunak|Metodologi pengembangan perangkat lunak|3
+11|Analisis dan Perancangan Sistem|Teknik analisis kebutuhan dan desain sistem|3
+12|Interaksi Manusia dan Komputer|Prinsip desain antarmuka pengguna|2
+13|Keamanan Informasi|Dasar keamanan sistem dan data digital|3
+14|Kriptografi|Teknik enkripsi dan keamanan komunikasi|3
+15|Kecerdasan Buatan|Konsep dasar artificial intelligence|3
+16|Machine Learning|Pembelajaran mesin dan penerapannya|4
+17|Data Mining|Teknik penggalian pola dari data|3
+18|Big Data|Pengolahan data skala besar|3
+19|Cloud Computing|Komputasi berbasis cloud dan layanannya|3
+20|Internet of Things|Konsep dan implementasi perangkat IoT|3
+21|Pemrograman Mobile|Pengembangan aplikasi Android dan iOS|3
+22|Pengolahan Citra Digital|Teknik manipulasi dan analisis citra|3
+23|Grafika Komputer|Pembuatan grafis dua dan tiga dimensi|3
+24|Game Development|Dasar pengembangan game digital|3
+25|Statistika|Statistika dasar untuk analisis data|3
+26|Matematika Diskrit|Logika matematika dan teori graf|3
+27|Kalkulus|Konsep limit turunan dan integral|4
+28|Aljabar Linear|Matriks vektor dan transformasi linear|3
+29|Metodologi Penelitian|Teknik penulisan dan penelitian ilmiah|2
+30|Etika Profesi|Etika dan tanggung jawab profesional IT|2
+31|Manajemen Proyek TI|Perencanaan dan pengelolaan proyek teknologi|3
+32|Sistem Informasi Manajemen|Pengelolaan informasi untuk keputusan bisnis|3
+33|E-Business|Konsep dan implementasi bisnis digital|3
+34|Digital Marketing|Strategi pemasaran berbasis digital|3
+35|Akuntansi Dasar|Dasar pencatatan dan laporan keuangan|3
+36|Kewirausahaan|Pengembangan ide dan bisnis startup|2
+37|Bahasa Inggris I|Bahasa Inggris dasar untuk akademik|2
+38|Bahasa Inggris II|Bahasa Inggris lanjutan untuk profesional|2
+39|Bahasa Indonesia|Penulisan karya ilmiah bahasa Indonesia|2
+40|Pendidikan Pancasila|Nilai-nilai Pancasila dalam kehidupan|2
+41|Kewarganegaraan|Hak dan kewajiban warga negara|2
+42|Agama|Pengembangan karakter dan moral|2
+43|Logika Informatika|Logika berpikir dalam pemecahan masalah|3
+44|Pemrograman Python|Dasar pemrograman menggunakan Python|3
+45|Pemrograman Java|Pemrograman Java untuk aplikasi|3
+46|Pemrograman C++|Pemrograman C++ tingkat dasar|3
+47|Pemrograman Golang|Pengembangan backend menggunakan Go|3
+48|Pemrograman Rust|Pemrograman sistem menggunakan Rust|3
+49|Framework Spring Boot|Pengembangan backend Java modern|3
+50|Framework NestJS|Pengembangan API dengan NestJS|3
+51|Framework FastAPI|Membangun API cepat dengan Python|3
+52|Framework ExpressJS|Backend development dengan ExpressJS|3
+53|Microservices Architecture|Konsep arsitektur microservices|3
+54|Message Broker|Kafka NATS dan RabbitMQ|3
+55|DevOps Dasar|CI CD container dan automation|3
+56|Docker|Containerization aplikasi|3
+57|Kubernetes|Orkestrasi container skala besar|3
+58|Linux Administration|Administrasi sistem Linux|3
+59|Shell Scripting|Automasi menggunakan shell script|2
+60|Testing Perangkat Lunak|Unit test integration test dan automation|3
+61|Quality Assurance|Penjaminan kualitas software|3
+62|REST API Design|Perancangan API RESTful|3
+63|GraphQL|Query API menggunakan GraphQL|3
+64|Clean Code|Menulis kode yang bersih dan terstruktur|2
+65|Design Pattern|Pola desain dalam pemrograman|3
+66|Software Architecture|Arsitektur sistem perangkat lunak|3
+67|Blockchain|Konsep blockchain dan cryptocurrency|3
+68|Web Security|Keamanan aplikasi web|3
+69|Ethical Hacking|Teknik penetration testing dasar|3
+70|Digital Forensics|Investigasi kejahatan digital|3
+71|Augmented Reality|Teknologi AR dan implementasinya|3
+72|Virtual Reality|Teknologi VR dan aplikasinya|3
+73|Natural Language Processing|Pemrosesan bahasa alami|3
+74|Computer Vision|Analisis visual menggunakan komputer|3
+75|Reinforcement Learning|Pembelajaran berbasis reward|3
+76|Recommendation System|Sistem rekomendasi berbasis data|3
+77|Search Engine|Teknologi mesin pencari|3
+78|Distributed System|Sistem terdistribusi|3
+79|High Performance Computing|Komputasi performa tinggi|3
+80|Embedded System|Sistem tertanam dan mikrokontroler|3
+81|Robotics|Dasar sistem robotik|3
+82|Numerical Methods|Metode numerik untuk komputasi|3
+83|Information Retrieval|Pengambilan informasi digital|3
+84|Human Resource System|Sistem informasi SDM|3
+85|Enterprise Resource Planning|Sistem ERP perusahaan|3
+86|Supply Chain Management|Manajemen rantai pasok|3
+87|Financial Technology|Teknologi keuangan digital|3
+88|E-Government|Sistem pemerintahan digital|3
+89|Smart City|Konsep kota pintar berbasis teknologi|3
+90|Green Computing|Komputasi ramah lingkungan|2
+91|Digital Transformation|Transformasi digital organisasi|3
+92|Startup Technology|Teknologi untuk startup|2
+93|Innovation Management|Manajemen inovasi teknologi|2
+94|Project Based Learning|Pembelajaran berbasis proyek|3
+95|Internship Preparation|Persiapan magang industri|2
+96|Internship|Kerja praktik di industri|4
+97|Seminar Proposal|Presentasi proposal skripsi|2
+98|Skripsi I|Penelitian tahap awal|3
+99|Skripsi II|Penyelesaian skripsi|3
+100|Kuliah Kerja Nyata|Pengabdian masyarakat|3
+101|coba123|coba halo coba lontong enak|2
